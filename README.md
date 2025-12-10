@@ -1,7 +1,7 @@
 # 🚗 Drive Until Death
 
 A fast-paced **2D car survival game** built with **Python** and **OpenGL**.  
-Avoid obstacles, collect points, and see how long you can last on the road!
+Avoid obstacles, collect points, and see how long you can last on the road! 
 
 
 
